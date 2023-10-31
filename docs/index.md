@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Bem-vindos
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá, seja bem-vindo ao meu diário de estudos sobre o mercado financeiro. Sempre ouvi muito falar sobre esse ramo, mas nunca tive plena consciência de sua complexidade, da exigência de dedicação e do toque de surrealismo que é encontrado na internet.
 
-## Commands
+Sou analista de sistemas e nunca achei outra maneira de conseguir uma renda além do meu trabalho. Vi no mercado a oportunidade de aprender algo, mesmo que seja por hobby, ganhar algum dinheiro e compartilhar todo esse conhecimento que vou adquirir e deixar nesta página.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Espero que gostem do conteúdo e estou à disposição para trocar ideias, ouvir sugestões e corrigir o que estiver incoerente.
 
-## Project layout
+Muito obrigado!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Yan Tapajós
