@@ -1,0 +1,3 @@
+# Estratégias
+
+## Estratégia de Scalping
